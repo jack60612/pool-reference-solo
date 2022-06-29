@@ -2,4 +2,5 @@ config.yaml
 .idea
 venv
 __pycache__
-*.sqlite
+*.sqlite!/
+chia_pool_reference.egg-info/
